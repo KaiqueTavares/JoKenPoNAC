@@ -3,4 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="vitoria">#17d129</color>
+    <color name="derrota">#ff4043</color>
+    <color name="empate">#000000</color>
 </resources>

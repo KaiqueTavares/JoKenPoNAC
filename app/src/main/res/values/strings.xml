@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">JoKenPo-NAC</string>
+    <string name="opcoes">Escolha Uma Opção</string>
+    <string name="ultimaJogada">Última Jogada</string>
+    <string name="jogadaPlayer">Você</string>
+    <string name="jogadaPC">Android</string>
+    <string name="resultado">Resultado</string>
+    <string name="venceu">Boa Garoto!</string>
+    <string name="perdeu">Não foi desta vez meu Bom!</string>
+    <string name="empate">EMPATE (Melhor do que uma derrota!)</string>
 </resources>
